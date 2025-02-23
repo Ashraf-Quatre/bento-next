@@ -70,8 +70,8 @@ export const config: Config = {
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
   trackLocation: false, // Request location from the browser. If false, or location is denied, use the coordinates below.
-  defaultLatitude: '26.559726',
-  defaultLongitude: '50.006523',
+  defaultLatitude: '26.5654',
+  defaultLongitude: '50.0089',
 
   // Automatic theme switching:
   // "system" - Switches based on OS color preference
