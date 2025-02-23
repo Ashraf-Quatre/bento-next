@@ -69,7 +69,7 @@ export const config: Config = {
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
-  trackLocation: true, // Request location from the browser. If false, or location is denied, use the coordinates below.
+  trackLocation: false, // Request location from the browser. If false, or location is denied, use the coordinates below.
   defaultLatitude: '26.559726',
   defaultLongitude: '50.006523',
 
